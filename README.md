@@ -73,7 +73,9 @@ Establece un log de sentencias
 notee
 Finaliza el log
 
-Practica 2.1
+Tipos de relaciones
+
+Practicas 2 y 3
 
 
 
